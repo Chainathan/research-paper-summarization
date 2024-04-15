@@ -1,0 +1,11 @@
+{
+  "sample_data": {
+    "file_name": "sample_data.csv"
+  },
+  "sample_json": {
+    "file_name": "sample.json"
+  },
+  "data_json": {
+    "file_name": "sample_data.json"
+  }
+}
