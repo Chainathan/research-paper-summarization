@@ -9,8 +9,8 @@ The project utilizes a hybrid approach combining both extractive and abstractive
 ## Key Features:
 
 - **Hybrid Summarization**: Combining extractive and abstractive methods for summarization.
-- **Model Finetuning**: Fine-tuned Mistral, Ilama, Gemma specifically for summarization tasks.
-- **Dataset**: Subset of 25k research papers dataset for training and evaluation.
+- **Model Finetuning**: Fine-tuned Mistral 7B, Ilama 2-7B, Gemma 7B specifically for summarization tasks.
+- **Dataset**: Subset of 25k research papers from arXiv for training and evaluation.
 
 ## Usage:
 
@@ -23,7 +23,7 @@ The project utilizes a hybrid approach combining both extractive and abstractive
 - Python 3.x
 - PyTorch
 - Transformers library
-- Archix machine learning research papers dataset
+- arXix machine learning research papers dataset
 
 ## Future Work:
 
