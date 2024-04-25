@@ -10,7 +10,7 @@ The project utilizes a hybrid approach combining both extractive and abstractive
 
 - **Hybrid Summarization**: Combining extractive and abstractive methods for summarization.
 - **Model Finetuning**: Fine-tuned Mistral, Ilama, Gemma specifically for summarization tasks.
-- **Dataset**: Utilizes the Archix machine learning research papers dataset for training and evaluation.
+- **Dataset**: Subset of 25k research papers dataset for training and evaluation.
 
 ## Usage:
 
